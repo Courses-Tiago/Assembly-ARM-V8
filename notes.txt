@@ -1,0 +1,13 @@
+ARM documentation: http://developer.arm.com/documentation/102374/0102/Registers-in-AArch64---general-purpose-registers
+
+https://developer.arm.com/documentation/ddi0601/2025-03/AArch64-Registers?lang=en
+
+- The CPU contains internal register or cache memories to facilitate some
+    operations and avoid to access the BUS to exchange data to RAM memory.
+
+- Assembly does not contain data types as most of other languages.
+
+- In ARM-V8 a word has 64-bit size and a half-word has 32-bit.
+
+- The 31 general purpose register are from x0 to x30 and have 64-bit size,
+
