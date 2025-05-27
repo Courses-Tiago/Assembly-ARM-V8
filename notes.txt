@@ -2,6 +2,8 @@ ARM documentation: http://developer.arm.com/documentation/102374/0102/Registers-
 
 https://developer.arm.com/documentation/ddi0601/2025-03/AArch64-Registers?lang=en
 
+
+system call table: https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md#arm64-64_bit
 - The CPU contains internal register or cache memories to facilitate some
     operations and avoid to access the BUS to exchange data to RAM memory.
 
