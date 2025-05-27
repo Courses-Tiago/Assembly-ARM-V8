@@ -3,6 +3,7 @@
 
 ### Assembler ###
 *.exe
+*.out
 *.o
 *.obj
 *.bc
