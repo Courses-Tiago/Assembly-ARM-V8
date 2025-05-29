@@ -13,3 +13,8 @@ system call table: https://chromium.googlesource.com/chromiumos/docs/+/master/co
 
 - The 31 general purpose register are from x0 to x30 and have 64-bit size,
 
+ADDRESSING MODES
+1 - IMMEDIATE ADDRESSING: Constant value to register, ex: mov x8, #93
+2 - DIRECT ADDRESSING: Register value to another Register, ex: mov x0, x1
+3 - INDIRECT ADDRESSING: 
+
